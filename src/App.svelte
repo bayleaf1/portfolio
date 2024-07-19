@@ -19,14 +19,14 @@
       demoLink: "https://game-of-life-21310.web.app",
       codeLink: "https://github.com/bayleaf1/react-game-of-life",
     },
-    {
-      img: "img/site.webp",
-      title: "Digital agency",
-      technologies: ["vue", "ant"],
-      description: "Landing for digital agency with multiple sections, hero, about, clients, features, services, team, contact us",
-      demoLink: "https://foodie-php-dathlyo6wq-uc.a.run.app",
-      codeLink: "https://github.com/bayleaf1/foodie-php",
-    },
+    // {
+    //   img: "img/site.webp",
+    //   title: "Digital agency",
+    //   technologies: ["vue", "ant"],
+    //   description: "Landing for digital agency with multiple sections, hero, about, clients, features, services, team, contact us",
+    //   demoLink: "https://foodie-php-dathlyo6wq-uc.a.run.app",
+    //   codeLink: "https://github.com/bayleaf1/foodie-php",
+    // },
   ];
 </script>
 
