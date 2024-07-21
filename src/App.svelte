@@ -26,8 +26,8 @@
       technologies: ["nuxt", "vue", "ant"],
       description:
         "Landing for digital agency with multiple sections, hero, about, clients, features, services, team, contact us",
-      demoLink: "https://foodie-php-dathlyo6wq-uc.a.run.app",
-      codeLink: "https://github.com/bayleaf1/foodie-php",
+      demoLink: "https://gp-landing-bd1.pages.dev",
+      codeLink: "https://github.com/bayleaf1/gp-landing",
     },
   ];
 </script>
