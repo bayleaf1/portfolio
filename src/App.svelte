@@ -25,7 +25,7 @@
       title: "Digital agency",
       technologies: ["nuxt", "vue", "ant"],
       description:
-        "Landing for digital agency with multiple sections, hero, about, clients, features, services, team, contact us",
+        "Landing for digital agency with multiple sections, hero, about, clients, features, services, team, contact us.",
       demoLink: "https://gp-landing-bd1.pages.dev",
       codeLink: "https://github.com/bayleaf1/gp-landing",
     },
@@ -34,25 +34,32 @@
 
 <div class="max-w-[1440px] mx-auto px-2 py-10">
   <div class="flex gap-6 lg:gap-8 flex-col lg:flex-row">
-   
-    <div class="text-center flex flex-col md:flex-row gap-4 items-center lg:flex-col md:justify-center lg:justify-start lg:items-center lg:mt-14">
+    <div
+      class="text-center flex flex-col md:flex-row gap-4 items-center lg:flex-col md:justify-center lg:justify-start lg:items-center lg:mt-14"
+    >
       <div
         class="shadow-lg w-[150px] h-[150px] lg:w-[200px] lg:h-[200px] border rounded-full"
       ></div>
 
       <div class="flex flex-col items-center">
         <p class="text-2xl">Dinu</p>
-        <p class="text-sm px-4 text-center">Full stack. 3 y.e. Javascript, Node, php </p>
+        <p class="text-sm px-4 text-center">
+          Fullstack. 3 y.e. Javascript, Node, php
+        </p>
         <div class="text-sm mt-2">
-          <div class="flex items-center gap-1">
-            <ion-icon class="text-lg visible" name={"mail-outline"}
-            ></ion-icon><a href="mailto:dinucontdelucru@gmail.com"
-              >dinucontdelucru@gmail.com</a
-            >
-          </div>
           <div class="flex items-center gap-1 mt-1">
             <ion-icon class="text-lg visible" name={"call-outline"}
-            ></ion-icon><a href="tel:+37379552160">+37379552160</a>
+            ></ion-icon><a
+              class="text-primary font-medium"
+              href="tel:+37379552160">+37379552160</a
+            >
+          </div>
+          <div class="flex items-center gap-1">
+            <ion-icon class="text-lg visible" name={"mail-outline"}
+            ></ion-icon><a
+              href="mailto:dinucontdelucru@gmail.com"
+              class="text-primary font-medium">dinucontdelucru@gmail.com</a
+            >
           </div>
         </div>
       </div>
